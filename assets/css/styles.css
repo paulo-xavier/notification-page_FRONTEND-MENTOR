@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,500;0,800;1,500;1,800&display=swap');
+
+body {
+    background-color: hsl(210, 60%, 98%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    column-gap: 2px;
+}
+
+header {
+    background-color: hsl(0, 0%, 100%);
+    width: inherit;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    min-height: 65px;
+    column-gap: 210px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 15px;
+}
+
+h1,
+p,
+h2 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+p {
+    font-weight: 500;
+    font-size: 12px;
+    color:  hsl(219, 12%, 42%);
+}
+
+h1 {
+    font-size: 18px;
+}
+
+#read-all-notifications:hover{
+    cursor: pointer;
+}
+
+.number-unread-notifications {
+    background-color: hsl(219, 85%, 26%);
+    padding: 6px;
+    padding-top: 2px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    width: 30px;
+    height: 25px;
+    text-align: center;
+    color: white;
+}
+
+
+section {
+    background-color: hsl(0, 0%, 100%);
+    width: 40vw;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-notification {
+    background-color:  hsl(0, 0%, 100%);
+    display: flex;
+    width: 93%;
+    height: 60px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-bottom: 4px;
+    border-radius: 10px;
+    column-gap: -10px;
+    cursor: pointer;
+}
+
+.container-notification.unlisted{
+    background-color: hsl(210, 60%, 98%);
+}
+
+
+h2 {
+    font-size: 15px;
+    margin: 3px;
+    font-weight: 700;
+}
+
+p,
+h2 {
+    word-spacing: 2px;
+}
+
+.image-user {
+    height: 40px;
+    width: 40px;
+}
+
+.girl-playing-chess{
+    margin-left: 120px;
+    border-radius: 6px;
+}
+
+.notification-description {
+    margin-left: 11px;
+
+}
+
+.private-message {
+    position: relative;
+    z-index: 1;
+    width: 80%;
+    height: 100px;
+    margin-left: 82px;
+    margin-top: 42px;
+    border: 1px solid hsl(219, 14%, 63%, 0.3);   
+    padding: 10px;
+    text-align: justify; 
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.private-message:hover{
+    background-color:  hsl(205, 33%, 90%) ;
+}
+ 
+.mark {
+    margin-top: 5px;
+}
+
+.angela {
+    margin: -8px;
+    margin-left: 20px;
+
+}
+
+.jacob {
+    margin: -20px;
+    margin-left: 20px;
+}
+
+.rizky {
+    margin: -33px;
+    margin-left: 20px;
+}
+.nathan{
+    margin: 22px;
+    margin-left: 20px;
+}
+
+.kimberly{
+    margin: 34px;
+    margin-left: 20px;
+    
+}
+
+.anna {
+    margin-top: 10px;
+}
+
+.chess-club{
+    color: hsl(219, 85%, 26%);
+    font-weight: 800;
+}
+
+.name-profile{
+    color: hsl(224, 21%, 14%);
+    font-weight: 800;
+}
+
+.symbol-unlisted{
+    color: hsl(1, 90%, 64%);
+}
+
