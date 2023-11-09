@@ -1,4 +1,4 @@
-# Frontend Mentor - Notifications page solution
+# Frontend Mentor - Notifications page solution ☑️
 
 This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -28,7 +28,7 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
+### Screenshot 🖼️
 
 ![Final screeenshot](./assets/images/final-screenshot.png)
 
@@ -39,8 +39,8 @@ This was a great challenge to review and apply concepts of HTML, CSS and Javascr
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- 📌 [URL](https://paulo-xavier.github.io/notification-page_FRONTEND-MENTOR/)
+- 📌 [Repository](https://github.com/paulo-xavier/notification-page_FRONTEND-MENTOR)
 
 ## My process
 
