@@ -1,0 +1,92 @@
+@media (max-width: 1263px) {
+    header {
+        column-gap: 180px;
+    }
+}
+
+@media (max-width: 1190px ){
+    header{
+        column-gap: 100px; 
+    }
+}
+
+@media (max-width: 1100px){
+    .private-message{
+        width: 70%;
+        margin-top: 32px;
+    }
+
+    .girl-playing-chess{
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 1023px){
+    h1 {
+        font-size: 15px;
+    }
+
+    header{
+        column-gap: 50px;
+    }
+    .number-unread-notifications{
+        width: 25px;
+        height: 22px;
+    }
+}
+
+@media (max-width: 892px){
+    section{
+        width: 50vw;
+    }
+}
+
+@media(max-width: 754px){
+    section{
+    width: 60vw;
+    }
+}
+
+@media(max-width: 625px){
+    section{
+        width: 70vw;
+    }
+}
+
+@media (max-width: 535px){
+    .mark{
+        margin-top:-10px;
+    }
+
+    .angela{
+        margin-top: -24px;
+    }
+    .jacob{
+        margin-top: -38px;
+    }
+    .rizky{
+        margin-top: -48px;
+    }
+    .private-message{
+        margin-top: 30px;
+    }
+
+    .girl-playing-chess{
+        margin-left: 40px;
+    }
+}
+
+@media (max-width:412px){
+    section{
+        width: 80vw;
+        height: 100px;
+    }
+    header{
+        column-gap: 15px;
+    }
+    .private-message{
+        margin-left: 65px;
+    }
+
+    
+}
