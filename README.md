@@ -54,7 +54,7 @@ This was a great challenge to review and apply concepts of HTML, CSS and Javascr
 
 ### Useful resources
 
-- [Hide and show elements using JS](https://stackoverflow.com/questions/6242976/javascript-hide-show-elementhttps://stackoverflow.com/questions/6242976/javascript-hide-show-element) - This helped me to find the best way to remove elements using Javascript. I had some problems to remove the unread mark (•) when the user presses the button. 
+- [Hide and show elements using JS](https://stackoverflow.com/questions/6242976/javascript-hide-show-element) - This helped me to find the best way to remove elements using Javascript. I had some problems to remove the unread mark (•) when the user presses the button. 
 - [How to select a specific part of a text (span tag)](https://www.freecodecamp.org/news/span-html-how-to-use-the-span-tag-with-css/#:~:text=How%20to%20style%20text%20with,the%20attribute%20value%20for%20styling.) - This helped me to discover the tag `<span>` that allows to select a specific part of a text. I had no idea about that before. 
 
 
